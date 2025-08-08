@@ -1,0 +1,14 @@
+# requirements.txt
+# Dependințe pentru aplicația de exerciții de pronunție
+
+# Recunoaștere vocală
+speechrecognition==3.10.0
+
+# Text-to-speech
+pyttsx3==2.90
+
+# Audio input/output
+pyaudio==0.2.11
+
+# Pentru sisteme Windows (opțional)
+# pipwin==0.5.2
