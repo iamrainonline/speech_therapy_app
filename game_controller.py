@@ -1,6 +1,6 @@
 # game_controller.py
 """
-Controller pentru logica jocului
+Controller pentru logica jocului!
 """
 import threading
 from typing import Optional, Callable
